@@ -18,12 +18,15 @@ Overall improvement in cybersecurity
 
 ## SKILLS
                                
-SIEM Implementation and Log Analysis          
-Network Traffic Monitoring and Attack Detection 
-Security Automation with Shuffle SOAR         
-Incident Response Planning and Execution      
-Case Management with TheHive                  
-Scripting and Automation for Threat Mitigation 
+SIEM Implementation and Log Analysis   
+
+Network Traffic Monitoring and Attack Detection   
+
+Incident Response 
+
+Scripting and Automation
+
+Vulnerability Management
 
 ## TOOLS
 
@@ -58,7 +61,6 @@ Scripting and Automation for Threat Mitigation
 <a href="https://coursera.org/share/3481589d829e25f0be5d814801cdee72">
   <img src="https://img.shields.io/badge/-Google%20IT%20Support-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
 </a>
-<
  <a href="https://coursera.org/share/464a4edcc542a9b36df32925a8d17395">
   <img src="https://img.shields.io/badge/-Johns%20Hopkins%20University%20Health%20IT%20Support-00467F?&style=for-the-badge&logo=Johns%20Hopkins%20University&logoColor=white" />
 </a>
