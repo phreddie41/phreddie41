@@ -58,8 +58,9 @@ Scripting and Automation for Threat Mitigation
 <a href="https://coursera.org/share/3481589d829e25f0be5d814801cdee72">
   <img src="https://img.shields.io/badge/-Google%20IT%20Support-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
 </a>
-<a href="https://coursera.org/share/1906e72cf58cc0ff9ecc9eac376b8cfa">
-  <img src="https://img.shields.io/badge/-John%20Hopkins%20University%20Health%20IT%20Support-4285F4?&style=for-the-badge&logo=Coursera&logoColor=white" />
+<
+ <a href="https://coursera.org/share/464a4edcc542a9b36df32925a8d17395">
+  <img src="https://img.shields.io/badge/-Johns%20Hopkins%20University%20Health%20IT%20Support-00467F?&style=for-the-badge&logo=Johns%20Hopkins%20University&logoColor=white" />
 </a>
  <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
