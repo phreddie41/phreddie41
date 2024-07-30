@@ -3,7 +3,7 @@
 
  
 
-As a security analyst, my role is to protect an organization's digital assets and information systems from threats and vulnerabilities. I assess security risks, implement protective measures, monitor for potential breaches, and respond to incidents when they occur. My work involves analyzing security data, staying up-to-date with the latest cyber threats and defense techniques, and collaborating with teams across the organization to maintain a strong security posture. I'm passionate about safeguarding sensitive information and helping to create a more secure digital environment.
+As a security analyst, I protect an organization's digital assets and information systems from threats and vulnerabilities. I assess security risks, implement protective measures, monitor for potential breaches, and respond to incidents when they occur. My work involves analyzing security data, staying up-to-date with the latest cyber threats and defense techniques, and collaborating with teams across the organization to maintain a strong security posture. I'm passionate about safeguarding sensitive information and helping to create a more secure digital environment.
 
 
 ## OBJECTIVE
@@ -11,10 +11,10 @@ To implement and optimize a robust vulnerability management program that systema
 This objective emphasizes:
 
 Implementation of a structured program
-Systematic approach to handling vulnerabilities
+A systematic approach to handling vulnerabilities
 Coverage of the entire IT infrastructure
 Risk reduction
-Overall improvement of cybersecurity
+Overall improvement in cybersecurity
 
 ## SKILLS
                                
@@ -58,8 +58,10 @@ Scripting and Automation for Threat Mitigation
 <a href="https://coursera.org/share/3481589d829e25f0be5d814801cdee72">
   <img src="https://img.shields.io/badge/-Google%20IT%20Support-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
 </a>
- <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
+<a href="https://coursera.org/share/1906e72cf58cc0ff9ecc9eac376b8cfa">
+  <img src="https://img.shields.io/badge/-John%20Hopkins%20University%20Health%20IT%20Support-4285F4?&style=for-the-badge&logo=Coursera&logoColor=white" />
+</a>
+ <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
 
