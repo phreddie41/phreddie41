@@ -48,14 +48,22 @@ Vulnerability Management
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-00FF00?&style=for-the-badge&logo=Splunk&logoColor=black" />
     <img src="https://img.shields.io/badge/-IBM%20QRadar-052FAD?&style=for-the-badge&logo=IBM&logoColor=white" />
 </div>
 
+### Vulnerability Management
+ <div>
+  <img src="https://img.shields.io/badge/-Qualys-ED1C24?&style=for-the-badge&logo=Qualys&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Nessus-00B32C?&style=for-the-badge&logo=Tenable&logoColor=white" />
+ </div>
+
 ## CLOUD
+ <div>
    <img src="https://img.shields.io/badge/-Azure-0089D6?&style=for-the-badge&logo=Microsoft-Azure&logoColor=white" />
+   <img src="https://img.shields.io/badge/-AWS-232F3E?&style=for-the-badge&logo=Amazon-AWS&logoColor=white" />
+ <div>  
 ## CERTIFICATIONS
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <a href="https://www.credly.com/badges/76f7bdc7-18d9-466e-aef5-48581efefcc9">
   <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
@@ -85,6 +93,6 @@ Vulnerability Management
 
 
 
-## Projects
+## PROJECTS
 - Detection Lab
 - SOC Automation Project
