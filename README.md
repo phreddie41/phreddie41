@@ -55,8 +55,10 @@ Scripting and Automation for Threat Mitigation
 <a href="https://www.credly.com/badges/76f7bdc7-18d9-466e-aef5-48581efefcc9">
   <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </a>
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<a href="https://coursera.org/share/3481589d829e25f0be5d814801cdee72">
+  <img src="https://img.shields.io/badge/-Google%20IT%20Support-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
+</a>
+ <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
