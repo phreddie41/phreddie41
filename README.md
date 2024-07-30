@@ -52,11 +52,25 @@ Vulnerability Management
     <img src="https://img.shields.io/badge/-IBM%20QRadar-052FAD?&style=for-the-badge&logo=IBM&logoColor=white" />
 </div>
 
-## Certifications
+## CLOUD
+   <img src="https://img.shields.io/badge/-Azure-0089D6?&style=for-the-badge&logo=Microsoft-Azure&logoColor=white" />
+## CERTIFICATIONS
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <a href="https://www.credly.com/badges/76f7bdc7-18d9-466e-aef5-48581efefcc9">
   <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+</a>
+ <a href="https://www.coursera.org/account/accomplishments/professional-cert/GRN3MC8DWKB7?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof">
+  <img src="https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
+</a>
+ <a href="https://www.credly.com/badges/15dc678a-1ef3-4a3c-85e8-0a341978311f/public_url">
+  <img src="https://img.shields.io/badge/-IBM%20Security%20Analyst-052FAD?&style=for-the-badge&logo=IBM&logoColor=white" />
+</a>
+ <a href="https://coursera.org/share/1906e72cf58cc0ff9ecc9eac376b8cfa">
+  <img src="https://img.shields.io/badge/-INFOSEC%20Incident%20Response-0056D2?&style=for-the-badge&logo=Infosec&logoColor=white" />
+</a>
+ <a href="https://coursera.org/share/fe74f9bb1ed8dae2bdf59727699ef584">
+  <img src="https://img.shields.io/badge/-University%20of%20Colorado%20System%20Cybersecurity%20For%20Business-CFB87C?&style=for-the-badge&logo=University%20of%20Colorado&logoColor=black" />
 </a>
 <a href="https://coursera.org/share/3481589d829e25f0be5d814801cdee72">
   <img src="https://img.shields.io/badge/-Google%20IT%20Support-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
@@ -64,9 +78,12 @@ Vulnerability Management
  <a href="https://coursera.org/share/464a4edcc542a9b36df32925a8d17395">
   <img src="https://img.shields.io/badge/-Johns%20Hopkins%20University%20Health%20IT%20Support-00467F?&style=for-the-badge&logo=Johns%20Hopkins%20University&logoColor=white" />
 </a>
- <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
+<a href="https://coursera.org/share/dc23030944f4055bc5517ba8486cf535">
+  <img src="https://img.shields.io/badge/-Google%20Project%20Management-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
+</a>
+ 
+
+
 
 ## Projects
 - Detection Lab
