@@ -63,6 +63,7 @@ Vulnerability Management
    <img src="https://img.shields.io/badge/-Azure-0089D6?&style=for-the-badge&logo=Microsoft-Azure&logoColor=white" />
    <img src="https://img.shields.io/badge/-AWS-232F3E?&style=for-the-badge&logo=Amazon-AWS&logoColor=white" />
  <div>  
+  
 ## CERTIFICATIONS
 <div>
 <a href="https://www.credly.com/badges/76f7bdc7-18d9-466e-aef5-48581efefcc9">
@@ -94,5 +95,11 @@ Vulnerability Management
 
 
 ## PROJECTS
-- Detection Lab
-- SOC Automation Project
+<a href="https://drive.google.com/file/d/196LrpMFl6fzPBuaL8u83Rz95i7hFokR7/view">
+  <img src="https://img.shields.io/badge/-Detection%20Lab-FF6F00?&style=for-the-badge&logo=Detect&logoColor=white" />
+</a>
+
+<a href="https://phred.my.canva.site/network-analysis-with-wireshark">
+  <img src="https://img.shields.io/badge/-Network%20Security%20With%20WIRESHARK-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+</a>
+
