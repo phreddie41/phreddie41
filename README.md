@@ -96,7 +96,7 @@ Vulnerability Management
 
 ## PROJECTS
 <a href="https://drive.google.com/file/d/196LrpMFl6fzPBuaL8u83Rz95i7hFokR7/view">
-  <img src="https://img.shields.io/badge/-Detection%20Lab-FF6F00?&style=for-the-badge&logo=Detect&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Detection%20Lab%20In%20Azure-0089D6?&style=for-the-badge&logo=Microsoft-Azure&logoColor=white" />
 </a>
 
 <a href="https://phred.my.canva.site/network-analysis-with-wireshark">
