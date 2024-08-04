@@ -101,3 +101,7 @@ Vulnerability Management
   <img src="https://img.shields.io/badge/-Network%20Security%20With%20WIRESHARK-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 </a>
 
+<a href="https://docs.google.com/document/d/1okzBs9z25GI27ZwAvU2KeKOi5y-SNYFY/edit?usp=sharing&ouid=114131946146658598843&rtpof=true&sd=true">
+  <img src="https://img.shields.io/badge/-Active%20Directory-0078D4?&style=for-the-badge&logo=Windows&logoColor=white" />
+</a>
+
