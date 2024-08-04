@@ -108,3 +108,7 @@ Vulnerability Management
 <a href="https://phred.my.canva.site/windows-eventloganalysis">
   <img src="https://img.shields.io/badge/-Windows%20Event%20Log%20Analysis-0078D6?&style=for-the-badge&logo=Windows&logoColor=white" />
 </a>
+
+<a href="https://phred.my.canva.site/copy-of-fred-s-porfolio">
+  <img src="https://img.shields.io/badge/-Vulnerability%20Management%20With%20Nessus-00B32C?&style=for-the-badge&logo=Tenable&logoColor=white" />
+</a>
