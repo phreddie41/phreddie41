@@ -105,3 +105,6 @@ Vulnerability Management
   <img src="https://img.shields.io/badge/-Active%20Directory-0078D4?&style=for-the-badge&logo=Windows&logoColor=white" />
 </a>
 
+<a href="https://phred.my.canva.site/windows-eventloganalysis">
+  <img src="https://img.shields.io/badge/-Windows%20Event%20Log%20Analysis-0078D6?&style=for-the-badge&logo=Windows&logoColor=white" />
+</a>
