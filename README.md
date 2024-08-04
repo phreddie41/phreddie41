@@ -24,8 +24,6 @@ Network Traffic Monitoring and Attack Detection
 
 Incident Response 
 
-Scripting and Automation
-
 Vulnerability Management
 
 ## TOOLS
