@@ -3,7 +3,7 @@
 
  
 
-As a security analyst, I protect an organization's digital assets and information systems from threats and vulnerabilities. I assess security risks, implement protective measures, monitor for potential breaches, and respond to incidents when they occur. My work involves analyzing security data, staying up-to-date with the latest cyber threats and defense techniques, and collaborating with teams across the organization to maintain a strong security posture. I'm passionate about safeguarding sensitive information and helping to create a more secure digital environment.
+As a security analyst, I help protect an organization's digital assets and information systems from threats and vulnerabilities. I assess security risks, implement protective measures, monitor for potential breaches, and respond to incidents when they occur. My work involves analyzing security data, staying up-to-date with the latest cyber threats and defense techniques, and collaborating with teams across the organization to maintain a strong security posture. I'm passionate about safeguarding sensitive information and helping to create a more secure digital environment.
 
 
 ## OBJECTIVE
@@ -53,7 +53,7 @@ Vulnerability Management
 ### Vulnerability Management
  <div>
   <img src="https://img.shields.io/badge/-Qualys-ED1C24?&style=for-the-badge&logo=Qualys&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Nessus-00B32C?&style=for-the-badge&logo=Tenable&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Tenable-00B32C?&style=for-the-badge&logo=Tenable&logoColor=white" />
  </div>
 
 ## CLOUD
