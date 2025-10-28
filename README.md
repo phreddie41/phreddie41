@@ -93,6 +93,23 @@ Vulnerability Management
 
 
 ## PROJECTS
+
+## ⚠️ Vulnerability Management Projects
+
+- **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+
+## 🚨 Threat Hunting and Security Operations
+
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+
+<hr/>
+
+
+<!--
+<img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
+<img width="35" alt="image" src="https://github.com/user-attachments/assets/77649969-9910-4994-8b96-74a116cfb2a8">
+-->
 <a href="https://drive.google.com/file/d/196LrpMFl6fzPBuaL8u83Rz95i7hFokR7/view">
   <img src="https://img.shields.io/badge/-Detection%20Lab%20In%20Azure-0089D6?&style=for-the-badge&logo=Microsoft-Azure&logoColor=white" />
 </a>
@@ -112,3 +129,15 @@ Vulnerability Management
 <a href="https://phred.my.canva.site/copy-of-fred-s-porfolio">
   <img src="https://img.shields.io/badge/-Windows%20VMVM%20Vulnerability%20Management%20With%20Nessus-00B32C?&style=for-the-badge&logo=Tenable&logoColor=white" />
 </a>
+
+## 🤳 Connect With Me
+
+[<img align="left" alt="___________ | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="___________ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="___________ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[twitter]: https://twitter.com/phreddie4
+[youtube]: https://www.youtube.com/c/CyberGuardGround
+[instagram]: https://www.instagram.com/phreddie4
+[linkedin]: https://linkedin.com/in/frederickoamankwah/
