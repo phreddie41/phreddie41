@@ -24,6 +24,8 @@ Network Traffic Monitoring and Attack Detection
 
 Incident Response 
 
+Threat Hunting
+
 Vulnerability Management
 
 ## TOOLS
