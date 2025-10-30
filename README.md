@@ -140,6 +140,6 @@ Vulnerability Management
 [<img align="left" alt="___________ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/phreddie4
-[youtube]: https://www.youtube.com/CyberGuardGround
+[youtube]: https://www.youtube.com/channel/UCI3SRvrAmO86aJhC7QobsXA
 [instagram]: https://www.instagram.com/phreddie4
 [linkedin]: https://linkedin.com/in/frederickoamankwah/
