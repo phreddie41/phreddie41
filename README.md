@@ -107,6 +107,9 @@ Vulnerability Management
 
 <hr/>
 
+<a href="https://phred.my.canva.site/copy-of-fred-s-porfolio">
+  <img src="https://img.shields.io/badge/-Windows%20VMVM%20Vulnerability%20Management%20With%20Nessus-00B32C?&style=for-the-badge&logo=Tenable&logoColor=white" />
+</a>
 
 <!--
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
@@ -128,9 +131,7 @@ Vulnerability Management
   <img src="https://img.shields.io/badge/-Windows%20Event%20Log%20Analysis-0078D6?&style=for-the-badge&logo=Windows&logoColor=white" />
 </a>
 
-<a href="https://phred.my.canva.site/copy-of-fred-s-porfolio">
-  <img src="https://img.shields.io/badge/-Windows%20VMVM%20Vulnerability%20Management%20With%20Nessus-00B32C?&style=for-the-badge&logo=Tenable&logoColor=white" />
-</a>
+
 
 ## 🤳 Connect With Me
 
