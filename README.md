@@ -1,6 +1,6 @@
-# Hi, I'm Frederick Amankwah <a href="https://linkedin.com/in/frederickoamankwah/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# Hi, Welcome to my page, I'm Frederick Amankwah <a href="https://linkedin.com/in/frederickoamankwah/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I'm a security professional who builds and hardens the systems that keep organizations safe. My focus is on designing vulnerability management programs, engineering detection pipelines, and automating security operations — from initial threat discovery through remediation at scale.
+An IT security professional who builds and hardens the systems that keep organizations safe. My focus is on designing vulnerability management programs, engineering detection pipelines, and automating security operations — from initial threat discovery through remediation at scale.
 
 I hold a **CompTIA Security+** certification along with credentials from Google, IBM, and INFOSEC, and I work hands-on with tools like **Microsoft Sentinel**, **Splunk**, **CrowdStrike Falcon**, and **Tenable/Nessus**.
 
