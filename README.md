@@ -102,7 +102,6 @@ I hold a **CompTIA Security+** certification along with credentials from Google,
 |---|---|
 | **[Azure Detection Lab](https://github.com/phreddie41/azure-detection-lab)** | Deployed a detection lab in Azure with Microsoft Sentinel, configured log ingestion from Windows VMs, wrote KQL detection rules, and simulated attack scenarios. |
 | **[Threat Hunting: Tor Browser Detection](https://github.com/phreddie41/threat-hunting-tor-detection)** | Hunted for Tor Browser usage across endpoint telemetry — built detection queries, documented the hypothesis-driven hunting workflow, and created an incident report. |
-| **[Network Traffic Analysis with Wireshark](https://github.com/phreddie41/wireshark-network-analysis)** | Captured and analyzed network traffic to identify suspicious patterns, protocol anomalies, and potential indicators of compromise. |
 
 ### Security Automation & Hardening
 
