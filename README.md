@@ -108,7 +108,6 @@ I hold a **CompTIA Security+** certification along with credentials from Google,
 
 | Project | Description |
 |---|---|
-| **[Windows Event Log Analysis](https://github.com/phreddie41/windows-eventlog-analysis)** | Parsed and analyzed Windows Security/System event logs to detect brute-force attempts, privilege escalation, and suspicious logon activity. |
 | **[Active Directory Security Hardening](https://github.com/phreddie41/active-directory-hardening)** | Configured and hardened an Active Directory environment — GPO enforcement, account policies, auditing, and least-privilege access controls. |
 
 ---
