@@ -108,7 +108,7 @@ I hold a **CompTIA Security+** certification along with credentials from Google,
 
 | Project | Description |
 |---|---|
-| **[Active Directory Security Hardening](https://github.com/phreddie41/active-directory-hardening)** | Configured and hardened an Active Directory environment — GPO enforcement, account policies, auditing, and least-privilege access controls. |
+| **[Active Directory Security Hardening](https://docs.google.com/document/d/1FlEtG291TiqMh0qwvjDDqPa2UtmhhT9X/edit)** | Configured and hardened an Active Directory environment |
 
 ---
 
