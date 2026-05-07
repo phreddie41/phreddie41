@@ -94,7 +94,6 @@ I hold a **CompTIA Security+** certification along with credentials from Google,
 |---|---|
 | **[Vulnerability Management Program — Full Lifecycle](https://github.com/phreddie41/vulnerability-management-program)** | Built a complete vuln management program from zero: policy drafting, stakeholder buy-in, Tenable scanning on Azure VMs, prioritized remediation across 6 rounds, achieving 81% vulnerability reduction. |
 | **[Automated Vulnerability Remediation Scripts](https://github.com/phreddie41/vulnerability-remediation-scripts)** | PowerShell and Bash scripts for programmatic remediation — Windows updates, SMB signing enforcement, NLA configuration, guest account lockdown, and software removal. |
-| **[Windows VM Vulnerability Assessment with Nessus](https://github.com/phreddie41/nessus-vulnerability-assessment)** | End-to-end Nessus vulnerability scanning lab: provisioned vulnerable Windows VM, ran authenticated scans, documented findings and remediation steps. |
 
 ### Detection Engineering & Threat Hunting
 
